@@ -1,0 +1,5 @@
+<root>
+    <item name='java.sql.ResultSet TYPE_SCROLL_SENSITIVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
